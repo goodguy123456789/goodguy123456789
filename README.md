@@ -3,16 +3,16 @@
 </p>
 
 <p>
-  <img src="./assets/stack.svg" width="100%" alt="Java · Spring Boot · MySQL · Redis" />
+  <img src="./assets/strip.svg" width="100%" alt="Java · Spring Boot · MySQL · Redis" />
 </p>
 
-## 关于我
+## About / 关于我
 
 你好，我是**廖军晓**，目前在重庆，正在寻找 **Java 后端实习**机会。
 
 围绕 Java、Spring Boot、MySQL 和 Redis 学习后端开发，通过项目练习接口设计、数据建模、登录鉴权、缓存与异步处理。希望把实现过程讲清楚，用代码和验证结果解释技术选择。
 
-## 项目
+## Selected work / 项目
 
 <table>
   <tr>
@@ -37,7 +37,7 @@
 
 <sub>项目封面为设计示意。项目来源、实现范围与已知问题见各仓库说明；个人独立改动清单待补充。</sub>
 
-## 当前学习
+## In progress / 当前学习
 
 - **缓存与一致性**：理解缓存失效、逻辑过期和并发读写的边界。
 - **异步与事务**：梳理 Lua 原子操作、消息重试和订单落库流程。
@@ -50,7 +50,7 @@
 
 </details>
 
-## 找到我
+## Connect / 找到我
 
 [GitHub · goodguy123456789 ↗](https://github.com/goodguy123456789)
 
